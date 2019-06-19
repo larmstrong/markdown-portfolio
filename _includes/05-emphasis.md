@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## Data Science
+
+* Linear _regression_
+* Logistic _regression_
+* Decision tree **classification**
+
+1. Python
+2. R
+3. C
+4. Java
